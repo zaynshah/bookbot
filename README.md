@@ -1,2 +1,3 @@
 # bookbot
-Completing bootdev course for backend learning 
+
+BookBot is my first project!
